@@ -1,5 +1,6 @@
 {
   "name": "multi-level-geojson-maps",
+  "homepage": "https://hitswa.github.io/multi-level-geojson-maps",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
